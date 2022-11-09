@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-[![NgShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thecosy)](https://github.com/anuraghazra/github-readme-stats)
+[![NgShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thecosy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 开源项目
