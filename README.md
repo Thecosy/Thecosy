@@ -10,10 +10,7 @@
 - 💬 Ask me about Java, TypeScript and my projects on [23339097@qq.com](mailto:23339097@qq.com)
 - ⚡ Fun fact: Data Analysis📊
 
-
-[![NgShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thecosy)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 技术栈 | Tech Stack
-
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -28,6 +25,9 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+[![NgShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thecosy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 开源项目
 - [🍦冰激凌内容管理系统](https://github.com/Thecosy/IceCMS)
