@@ -9,7 +9,8 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 💬 Ask me about Java, TypeScript and my projects on [23339097@qq.com](mailto:23339097@qq.com)
 - ⚡ Fun fact: Data Analysis📊
-
+- 
+[![NgShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thecosy)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
