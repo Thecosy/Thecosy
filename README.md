@@ -4,13 +4,13 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm Thecosy
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 💬 Ask me about Java, TypeScript and my projects on [23339097@qq.com](mailto:23339097@qq.com)
 - ⚡ Fun fact: Data Analysis📊
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack | 技术栈
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
