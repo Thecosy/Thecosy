@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "src": "https://res.cloudinary.com/dxl1idlr5/image/upload/v1675503392/2023/02/5344abc00eb46f4ebfd58840bb4e23aa.png",
     "hidden": false
   },
   "profile": {
@@ -25,7 +25,7 @@
         "2014.09.01",
         "2018.06.30"
       ],
-      "school": "华南理工大学",
+      "school": "郑州工商学院",
       "major": "网络工程",
       "academic_degree": "本科"
     }
